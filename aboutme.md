@@ -7,12 +7,12 @@ Published: true
 
 Hey there! I'm Bryan. Let me tell you more about myself.
 
-I'm a data scientist who contemplates about topics that are relevant to medicine, fun and inspire people to dig deeper. I am primarily interested in neuroscience, data science, machine learning, public health, and health policy. I'm currently taking a gap year before entering medical school.
+I'm a data scientist who contemplates about topics that are relevant to medicine and inspire people to dig deeper or just simply fun. I am primarily interested in neuroscience, data science, machine learning, public health, and health policy. I'm currently taking a gap year before entering medical school.
 <!-- Beginning in September 2020, I'll be doing research at ... lab in Boston, MA. -->
 
 ### What I've done
 
-I did my undergraduate at Boston University (2020) and graduated with a B.A. in Mathematics (Statistics) and Biology (Specialization in Cellular Biology, Molecular Biology, and Genetics) with a minor in Economics - I know, a mouthful. I love being in Boston because of the density of ideas that are exchanged around here, especially in medicine. While there, I was the chair of the Allocations Board and I worked directly with the Dean of Students to allocate over $700,000 annually to 300 clubs that request funding. You can think of us like the FED of Boston University. We worked with club presidents and treasurers to help them secure funding and helped coordinate campus-wide or club-specific events.  It was a really fun experience talking to club presidents and treasurers and discussing their needs, while I get to see the diversity of the student body.
+I did my undergraduate at Boston University (2020) and graduated with a B.A. in Mathematics (Statistics) and Biology (Specialization in Cellular Biology, Molecular Biology, and Genetics) with a minor in Economics - I know, a mouthful. I loved being in Boston because of the density of ideas that are exchanged around there, especially in medicine. While there, I was the chair of the Allocations Board and I worked directly with the Dean of Students to allocate over $700,000 annually to 300 clubs that request funding. You can think of us like the FED of Boston University. We worked with club presidents and treasurers to help them secure funding and helped coordinate campus-wide or club-specific events.  It was a really fun experience talking to club presidents and treasurers and discussing their needs, while I get to see the diversity of the student body.
 
 
 ### What interests me
