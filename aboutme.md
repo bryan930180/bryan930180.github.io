@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Aspiring physician-scientist with interests in neuroscience, data science, public health, and health policy.
+Published: true
 ---
 
 Hey there! I'm Bryan. Let me tell you more about myself.
