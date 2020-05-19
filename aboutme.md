@@ -6,7 +6,7 @@ subtitle: Aspiring physician-scientist with interests in neuroscience, data scie
 
 Hey there! I'm Bryan. Let me tell you more about myself.
 
-I'm a data scientist who likes to study topics that are relevant to medicine, fun, and inspire people to dig deeper. I'm currently taking a gap year before entering medical school.
+I'm a data scientist who contemplates about topics that are relevant to medicine, fun and inspire people to dig deeper. I am primarily interested in neuroscience, data science, machine learning, public health, and health policy. I'm currently taking a gap year before entering medical school.
 <!-- Beginning in September 2020, I'll be doing research at ... lab in Boston, MA. -->
 
 ### What I've done
@@ -15,6 +15,7 @@ I did my undergraduate at Boston University (2020) with a B.A. in Mathematics (S
 
 
 ### What interests me
+
 I knew I wanted to do medicine from the beginning, but the complexity of biology had to be addressed systematically. Therefore, I got my start in statistics during my undergrad. After taking Linear Models, I learned about how large datasets can be handled and analyzed. I was surprised to learn the theories that underlie many of the commonly heard buzzwords i.e. Machine Learning, Regression, Big Data. I was also intrigued by neuroscience because of its capacity to be modeled. After I learned about its intimate connection with mathematics, I wanted to learn more about how we can simulate the various functions of neural circuits. I'm also interested in public health and health policy because of its relevance to society today. I hope to work on giving people the treatment they need. After all, that's the goal of medicine!
 
 I worked with Professor Eric Roseen in the BU School of Medicine Department of Family Medicine on the effects of non-pharmacologic methods on psychometric measures. This project is a secondary data analysis on the Back To Health clinical trial with over 320 participants. The manuscript for which I am hoping to publish in the coming months.
@@ -30,6 +31,10 @@ I love travelling and exploring new places! Some highlights include:
 ### Where I'm going
 
 This summer I'll be working as a Data Science intern at Facebook in New York City. In the medium-to-long-term I hope to be able to further explore my interests in data science for social good, whether that be in media/politics, sustainability, global health, or social/economic inclusion. -->
+
+### Where are you from?
+
+I was born in Los Angeles, CA, but I quickly moved to Taipei, Taiwan. I spent 18 years here so that is where I call home! My parents are both Taiwanese but they met while they were studying abroad in the US. I have an older brother that is 7 years older than I am.
 
 ### What I do in my free time
 
