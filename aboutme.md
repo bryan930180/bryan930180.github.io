@@ -25,11 +25,11 @@ I love travelling and exploring new places! Some highlights include:
 
 * Living and working in Brussels, Belgium at [Dalberg Data Insights](https://www.dalberg.com/what-we-do/dalberg-data-insights), summer 2019
 * Living and conducting research on non-communicable diseases among sex workers in Nairobi, Kenya
-* Debating at the World University Debating Championships in The Hague, Netherlands (2017), Mexico City (2018), and Cape Town, South Africa (2019). Also debating at Oxford and Cambridge! -->
+* Debating at the World University Debating Championships in The Hague, Netherlands (2017), Mexico City (2018), and Cape Town, South Africa (2019). Also debating at Oxford and Cambridge!
 
 ### Where I'm going
 
-This summer I'll be working as a Data Science intern at Facebook in New York City. In the medium-to-long-term I hope to be able to further explore my interests in data science for social good, whether that be in media/politics, sustainability, global health, or social/economic inclusion.
+This summer I'll be working as a Data Science intern at Facebook in New York City. In the medium-to-long-term I hope to be able to further explore my interests in data science for social good, whether that be in media/politics, sustainability, global health, or social/economic inclusion. -->
 
 ### What I do in my free time
 
