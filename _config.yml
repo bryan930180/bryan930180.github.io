@@ -13,6 +13,7 @@ author: Bryan Tseng
 
 navbar-links:
   About Me: "aboutme"
+  Research Projects: "researchprojects"
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
 
@@ -37,10 +38,10 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "bryan41@bu.edu"
-  facebook: facebook.com/bryan930180
-  github: github.com/bryan930180
-  twitter: twitter.com/bryan930180
-  linkedin: daattali
+  facebook: bryan930180
+  github: bryan930180
+  twitter: bryan930180
+  linkedin: bryan930180
   instagram: bryan.tseng41
   telephone: (857) 337-4445
   rss: false
