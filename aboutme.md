@@ -39,7 +39,7 @@ I was born in Los Angeles, CA, but I quickly moved to Taipei, Taiwan. I spent 18
 
 ### What I do in my free time
 
-I've been playing the violin since I was seven years old. I have some unlisted videos that I am too shy to post here. :) Although I no longer play, my love for classical music is on-par with my interest in medicine. My favorite piece is Mozart's Piano Concerto No.23 in A major II. Andante. I enjoy going to a good concert now and then. I also love other genres such as Rock, Jazz, Rap, and K-pop. I can talk on and on about this.
+I've been playing the violin since I was seven years old. I have some unlisted videos that I am too shy to post here. :) Although I no longer play, my love for classical music is on-par with my interest in medicine. My favorite piece is Mozart's Piano Concerto No.23 in A major II. Andante. I enjoy going to a good concert now and then. I also love other genres such as Rock, Jazz, Rap, and K-pop. I can talk on and on about this. I also enjoy a good book on Friday nights!
 
 I also love biking and basketball. I do it leisurely and I use the bike to get around the city. Saves time!
 
